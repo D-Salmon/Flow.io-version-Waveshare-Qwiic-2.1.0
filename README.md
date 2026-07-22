@@ -1,5 +1,12 @@
 # Flow.IO
 
+## Afficheur Raspberry Pi
+
+Le dossier [`rpi-kiosk`](rpi-kiosk/) contient un paquet autonome pour
+transformer un Raspberry Pi 3B+ sous Raspberry Pi OS Lite 32 bits en afficheur
+tactile Flow.io. L'installation configure Chromium en mode kiosk, le démarrage
+automatique et la mise en veille de l'écran.
+
 ## Version Waveshare Qwiic 2.1.0
 
 Cette edition allegee cible exclusivement le Waveshare ESP32-S3 avec modules
